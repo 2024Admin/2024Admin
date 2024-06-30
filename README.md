@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @2024Admin
+- 👀 I’m interested in System Adminstrative task
+- 🌱 I’m currently learning Google IT Automation with python professional course
+- 💞️ I’m looking to collaborate on Python System Adminstrator
+- 📫 How to reach me: pabloalimasi233@gmail.com
+- 😄 Pronouns: M
+- ⚡ Fun fact: I Like coding in python even more.
